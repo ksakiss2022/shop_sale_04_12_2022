@@ -1,5 +1,6 @@
 package com.skypro.shop_sale.model;
 
+
 import jdk.jfr.Timestamp;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

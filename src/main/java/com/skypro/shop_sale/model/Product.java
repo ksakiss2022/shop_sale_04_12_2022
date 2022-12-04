@@ -1,3 +1,4 @@
+
 package com.skypro.shop_sale.model;
 
 import lombok.AllArgsConstructor;

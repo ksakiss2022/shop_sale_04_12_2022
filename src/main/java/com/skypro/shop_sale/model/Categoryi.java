@@ -7,6 +7,7 @@ import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 
+
  @Data
  @NoArgsConstructor
  @AllArgsConstructor
@@ -23,4 +24,5 @@ import javax.persistence.*;
     //генератор
      private Long id;
      private String title;
+
  }
